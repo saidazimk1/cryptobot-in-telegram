@@ -1,1 +1,1 @@
-# cyptobot-in-telegram
+# cryptobot-in-telegram
