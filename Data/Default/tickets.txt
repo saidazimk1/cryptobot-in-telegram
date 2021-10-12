@@ -1,0 +1,5 @@
+{
+    "BTC": {"delta_accept": 3000, "price": 0},
+    "ETH": {"delta_accept": 500, "price": 0},
+    "XRP": {"delta_accept": 0.10, "price": 0}
+}

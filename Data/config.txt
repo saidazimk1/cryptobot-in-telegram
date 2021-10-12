@@ -1,0 +1,5 @@
+{
+    "PAUSE_CYCLE": 30,
+    "TIME_ONLY_PRICE": 14400,
+    "COUNTER_SEND": 2000
+}
